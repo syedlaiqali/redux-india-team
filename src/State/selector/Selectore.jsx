@@ -1,0 +1,1 @@
+export const getAllData =(state)=>state.Reducerfile.players;
